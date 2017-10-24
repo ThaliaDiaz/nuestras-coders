@@ -12,3 +12,5 @@ Prácticar el posicionamiento de imágenes.
 
 * Html 5
 * Css 3
+
+![recursos](assets/images/pag.PNG)
